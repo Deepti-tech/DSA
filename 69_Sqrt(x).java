@@ -17,10 +17,7 @@ class Solution {
             } else if (sq < x && x < nextSq) {
                 return mid;
             }
-
-            if((long)mid*mid == x){
-                return mid;
-            }else if((long)mid*mid < x){
+            if(sq < x){
                 start = mid + 1;
             }else{
                 end = mid - 1;
