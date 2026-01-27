@@ -45,7 +45,7 @@ class Solution {
                 ans = add("0",String.valueOf(b.charAt(i))) + ans;
             }
         }
-        if (!carry.equals("0"))
+        if (!carry.equals("0")){
             ans = carry + ans;
         }
         return ans;
