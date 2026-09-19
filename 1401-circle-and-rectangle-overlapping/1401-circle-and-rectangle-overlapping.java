@@ -3,6 +3,14 @@ class Solution {
         int nearestX = Math.max(x1, Math.min(x2, xCenter));
         int nearestY = Math.max(y1, Math.min(y2, yCenter));
 
+        if(x1 > xCenter){
+            nearestX = x1;
+        }else if(x2 < xCenter){
+            nearestX = x2;
+        }else{
+            nearestX = xCenter;
+        }
+
         long dx = xCenter - nearestX;
         long dy = yCenter - nearestY;
 
@@ -12,3 +20,12 @@ class Solution {
         return false;
     }
 }
+
+// explaination of nearestX
+// if(x1 > xCenter){
+//     nearestX = x1;
+// }else if(x2 < xCenter){
+//     nearestX = x2;
+// }else{
+//     nearestX = xCenter;
+// }
