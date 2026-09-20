@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Deepti-tech/DSA/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/Deepti-tech/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Deepti-tech/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepti-tech/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepti-tech/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Deepti-tech/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Deepti-tech/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Deepti-tech/DSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepti-tech/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [3498-reverse-degree-of-a-string](https://github.com/Deepti-tech/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Deepti-tech/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Deepti-tech/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
