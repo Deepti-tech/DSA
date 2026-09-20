@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Deepti-tech/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepti-tech/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Deepti-tech/DSA/tree/master/1052-grumpy-bookstore-owner) |
+| [1200-minimum-absolute-difference](https://github.com/Deepti-tech/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Deepti-tech/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Deepti-tech/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Deepti-tech/DSA/tree/master/3498-reverse-degree-of-a-string) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/Deepti-tech/DSA/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
