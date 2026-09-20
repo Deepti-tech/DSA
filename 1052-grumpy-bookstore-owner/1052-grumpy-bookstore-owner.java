@@ -12,6 +12,7 @@ class Solution {
                 windowExtra += customers[i];
             }
         }
+        
         maxExtra = windowExtra;
 
         for(int i=minutes; i<customers.length; i++){
