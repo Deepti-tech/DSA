@@ -7,9 +7,10 @@ class Solution {
             freq[s.charAt(right) - 'A']++;
             maxFreq = Math.max(maxFreq, freq[s.charAt(right) - 'A']);
             int noOfUpdatedChar = right-left+1 - maxFreq;
-            if (noOfUpdatedChar > k) {
+            while (noOfUpdatedChar > k) {
                 freq[s.charAt(left) - 'A']--;
                 left++;
+                noOfUpdatedChar = right-left+1 - maxFreq;
             }
             max = Math.max(max, right-left+1);
         }
