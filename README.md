@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deepti-tech/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Deepti-tech/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Deepti-tech/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3524-find-x-value-of-array-i](https://github.com/Deepti-tech/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepti-tech/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Deepti-tech/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Deepti-tech/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3524-find-x-value-of-array-i](https://github.com/Deepti-tech/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Deepti-tech/DSA/tree/master/0013-roman-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Deepti-tech/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/Deepti-tech/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Geometry
 |  |
 | ------- |
