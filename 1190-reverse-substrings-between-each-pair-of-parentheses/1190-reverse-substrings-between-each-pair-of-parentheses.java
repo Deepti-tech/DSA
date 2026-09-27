@@ -6,11 +6,11 @@ class Solution {
 
         for (char ch : s.toCharArray()) {
             if (ch == '(') {
-                stack.push(sb);
-                sb = new StringBuilder();
+                stack.push(sb); //push previous string
+                sb = new StringBuilder(); // start with empty string
             } else if (ch == ')') {
-                sb.reverse();
-                sb = stack.pop().append(sb);
+                sb.reverse(); //reverse the current string
+                sb = stack.pop().append(sb); //append the current string to previous string
             } else {
                 sb.append(ch);
             }
