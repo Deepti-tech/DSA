@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Deepti-tech/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Deepti-tech/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Deepti-tech/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepti-tech/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Deepti-tech/DSA/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Deepti-tech/DSA/tree/master/0070-climbing-stairs) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Deepti-tech/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/Deepti-tech/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Deepti-tech/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deepti-tech/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepti-tech/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Deepti-tech/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
