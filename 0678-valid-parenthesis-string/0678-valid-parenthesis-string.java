@@ -3,10 +3,7 @@ class Solution {
 
         int minOpen = 0, maxOpen = 0;
 
-        for (int i = 0; i < s.length(); i++) {
-
-            char ch = s.charAt(i);
-
+        for (char ch : s.toCharArray()) {
             if (ch == '(') {
                 minOpen++; maxOpen++;
             } else if (ch == '*') {
