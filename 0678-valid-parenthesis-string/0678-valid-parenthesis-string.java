@@ -1,41 +1,28 @@
 class Solution {
     public boolean checkValidString(String s) {
 
-        Stack<Integer> bracketPosition = new Stack<>();
-        Stack<Integer> asteriskPosition = new Stack<>();
+        int minOpen = 0, maxOpen = 0;
 
         for (int i = 0; i < s.length(); i++) {
 
             char ch = s.charAt(i);
 
             if (ch == '(') {
-                bracketPosition.push(i);
-
+                minOpen++; maxOpen++;
             } else if (ch == '*') {
-                asteriskPosition.push(i);
-
+                minOpen = Math.max(0, minOpen - 1);
+                maxOpen++;
             } else { // ')'
-
-                if (!bracketPosition.isEmpty()) {
-                    bracketPosition.pop();
-                } else if (!asteriskPosition.isEmpty()) {
-                    asteriskPosition.pop();
+                if (minOpen > 0) {
+                    minOpen--; maxOpen--;
+                } else if (maxOpen > 0) {
+                    maxOpen--;
                 } else {
                     return false;
                 }
             }
         }
 
-        while (!bracketPosition.isEmpty() && !asteriskPosition.isEmpty()) {
-
-            if (bracketPosition.peek() < asteriskPosition.peek()) {
-                bracketPosition.pop();
-                asteriskPosition.pop();
-            } else {
-                return false;
-            }
-        }
-
-        return bracketPosition.isEmpty();
+        return minOpen == 0;
     }
 }
