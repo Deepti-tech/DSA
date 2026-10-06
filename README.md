@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Deepti-tech/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Deepti-tech/DSA/tree/master/0213-house-robber-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Deepti-tech/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0740-delete-and-earn](https://github.com/Deepti-tech/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepti-tech/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/Deepti-tech/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepti-tech/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepti-tech/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Deepti-tech/DSA/tree/master/0013-roman-to-integer) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepti-tech/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0740-delete-and-earn](https://github.com/Deepti-tech/DSA/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/Deepti-tech/DSA/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Deepti-tech/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Deepti-tech/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Deepti-tech/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Deepti-tech/DSA/tree/master/0213-house-robber-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Deepti-tech/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0740-delete-and-earn](https://github.com/Deepti-tech/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepti-tech/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Deepti-tech/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Deepti-tech/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
