@@ -9,6 +9,7 @@ class Solution {
         for(int n : nums){
             freq[n]++;
         }
+        
         int dp[] = new int[max+1];
         dp[0] = 0;
         dp[1] = freq[1];
