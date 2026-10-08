@@ -2,7 +2,6 @@ class Solution {
     public String removeOuterParentheses(String s) {
         StringBuilder ans = new StringBuilder();
         StringBuilder curr = new StringBuilder();
-        Stack<Character> stack = new Stack<>();
         int open = 0, close = 0;
         boolean primitiveFound = false;
 
@@ -33,19 +32,3 @@ class Solution {
         return ans.toString();
     }
 }
-
-// if(s.charAt(0) == '('){
-//     ans.append('(');
-// }
-// for(int i=1; i<s.length(); i++){
-//     char ch = s.charAt(i);
-//     if(ch == '('){
-//         if(s.charAt(i-1) != '('){
-//             ans.append(ch);
-//         }
-//     }else{
-//         if(s.charAt(i-1) != ')'){
-//             ans.append(ch);
-//         }
-//     }
-// }
