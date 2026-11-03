@@ -8,12 +8,5 @@ class Solution {
         }
 
         return max*nums.length - sum;
-
-        // int counter = 0;
-        // for(int num : nums){
-        //     counter += Math.abs(num - max);
-        // }
-
-        // return counter;
     }
 }
